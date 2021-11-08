@@ -1,4 +1,4 @@
-# MIPS-BomberMap
+# MIPS-BomberMan
 A MIPS assembly version of the popular game "Bomber Man".
 > [Short Demo](https://youtu.be/DhHCndkfiD8)
 
